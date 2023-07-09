@@ -1,4 +1,4 @@
-Buildup (LISP) Collin Edition™ 
+# Buildup (LISP) Collin Edition™ 
 
 ![](Aspose.Words.6556f893-a100-4d2e-b60d-25ae027f50f9.001.jpeg)
 
@@ -10,19 +10,19 @@ Real Life picture of Buildup Domino Game
 
 Note: it’s one of the few domino games that uses 2 different colored set of dominoes. 
 
-Bug Report 
+## Bug Report 
 
 The only bug detected occurs when the domino location is listed in help mode. Sometimes this may be incorrect. 
 
-Program execution 
+## Program execution 
 
 This program was made using the Microsoft VSCode. The main executor is Collin.lsp file. To run this game you must install Clisp in Ubuntu - you do this by typing  sudo apt install Clisp. 
 
 From there, type clear && clisp Collin.lsp and the program should run. 
 
-Feature List 
+## Feature List 
 
-- Missing Features 
+- ### Missing Features 
 
 ![](Aspose.Words.6556f893-a100-4d2e-b60d-25ae027f50f9.004.png) Help mode  
 
@@ -30,15 +30,15 @@ Feature List
 
 ![](Aspose.Words.6556f893-a100-4d2e-b60d-25ae027f50f9.004.png) Computer player strategy (it plays randomly) 
 
-- Extra features  
+- ### Extra features  
 
 ![](Aspose.Words.6556f893-a100-4d2e-b60d-25ae027f50f9.004.png) When possible, it will display all possible moves for a desired stack play 
 
-Data Structures Used 
+## Data Structures Used 
 
 - A list was used for all pieces for individual tiles, stacks, boneyards, hands, individual players, and the game. 
 
-Log 
+## Log 
 
 1. 2/10/2023 After spending a few hours wrapping my head around how Lisp works, I made the project and got the basic welcome menu with the proper input validation working. This helped in introducing myself to the lisp syntax. 
 1. 2/11/2023 and 2/12/2023 I figured out basic list setup and was able to create the basic functions like new\_round and the boneyard models.  
@@ -53,7 +53,7 @@ Log
 10. 3/4/2023 to 3/5/2023 I added in the last- minute patches and tested extensively. 
 10. 3/6/2023 to 3/7/2023 I documented work and cleaned up.  
 
-Screen shots 
+## Screen shots 
 
 1. Main Menu
 
@@ -62,10 +62,12 @@ Screen shots
 2. Round information so far
 
 ![](Aspose.Words.6556f893-a100-4d2e-b60d-25ae027f50f9.006.jpeg)
-
 ![](Aspose.Words.6556f893-a100-4d2e-b60d-25ae027f50f9.007.jpeg)
 
-3. Computer player method (is random but always legal)![](Aspose.Words.6556f893-a100-4d2e-b60d-25ae027f50f9.008.jpeg)![](Aspose.Words.6556f893-a100-4d2e-b60d-25ae027f50f9.009.jpeg)
+3. Computer player method (is random but always legal)
+
+![](Aspose.Words.6556f893-a100-4d2e-b60d-25ae027f50f9.008.jpeg)![](Aspose.Words.6556f893-a100-4d2e-b60d-25ae027f50f9.009.jpeg)
+
 4. Human input for stacking opponent’s stack 
 
 ![](Aspose.Words.6556f893-a100-4d2e-b60d-25ae027f50f9.010.jpeg)
