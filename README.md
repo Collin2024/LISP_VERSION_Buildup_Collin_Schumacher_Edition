@@ -1,9 +1,7 @@
 # Buildup (LISP) Collin Edition™ 
 
 ![](Aspose.Words.6556f893-a100-4d2e-b60d-25ae027f50f9.001.jpeg)
-
 ![](Aspose.Words.6556f893-a100-4d2e-b60d-25ae027f50f9.002.jpeg)
-
 ![](Aspose.Words.6556f893-a100-4d2e-b60d-25ae027f50f9.003.jpeg)
 
 Real Life picture of Buildup Domino Game 
@@ -72,7 +70,7 @@ From there, type clear && clisp Collin.lsp and the program should run.
 
 ![](Aspose.Words.6556f893-a100-4d2e-b60d-25ae027f50f9.010.jpeg)
 
-5. Human input for stacking on its own stack ![](Aspose.Words.6556f893-a100-4d2e-b60d-25ae027f50f9.011.png)
+5. Human input for stacking on its own stack 
 
 ![](Aspose.Words.6556f893-a100-4d2e-b60d-25ae027f50f9.012.jpeg)
 
