@@ -39,9 +39,9 @@ Each player draws a tile from his/her boneyard. The player whose tile has the mo
 In each hand, the two players alternate placing one tile each, starting with the first player as determined above. The hand ends when both the players have placed all their tiles, or when neither player can place a tile. If one player cannot place a tile on his/her turn, the player will pass, allowing the other player to continue.
 ### Placement of a tile
 A player places a tile from her/his hand on top of one of the twelve tile stacks started during setup, subject to the following rules:
-A non-double tile may be placed on any tile as long as the total number of pips on it is greater than or equal to that of the tile on which it is placed.
-A double tile (e.g., 0-0, 1-1, 2-2) may be placed on any non-double tile, even if the non-double tile has more pips.
-A double tile may be placed on another double tile only if it has more total pips than the tile on which it is placed.
+- A non-double tile may be placed on any tile as long as the total number of pips on it is greater than or equal to that of the tile on which it is placed.
+- A double tile (e.g., 0-0, 1-1, 2-2) may be placed on any non-double tile, even if the non-double tile has more pips.
+- A double tile may be placed on another double tile only if it has more total pips than the tile on which it is placed.
 ### Score
 When a hand ends, each player is awarded points as follows:
 The points equal the total pips on all the tiles of the player's color that are on top of the twelve stacks.
